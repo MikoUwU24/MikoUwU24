@@ -3,7 +3,7 @@
 🎮 Game, coding, anime, cosplay -w- <br>
 🛠 Having interest in web/data/joe mama <br>
 🎵 Jpop, USUK , rap <br>
-🍵 Tea lover <br>
+🍵 Strawberry fanboi -w- <br>
 🌍 Tiếng Việt, English, 日本語
 
 
@@ -38,14 +38,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nqd1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nqd1&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqd1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&lang_count=20&layout=donut&langs_count=12) <!--layout=donut hasnt updated yet-->
 
 
 
 # 💬 Favourite quote:
-> _"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacinia tincidunt finibus. Nam at felis vel erat molestie viverra ut a ante. Donec tincidunt, erat ut congue porta, ex tortor egestas mi, vel mollis augue mi eget velit."_ - John Ligma 
+> _""A dollar won by betting is twice as sweet as a dollar earned." Wei Sigma 
 
 
