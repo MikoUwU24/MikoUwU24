@@ -20,7 +20,7 @@ jobs:
           #  - read:user
           #  - read:org (optional, if you want organization stats)
           #  - repo (optional, if you want private repository stats)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: MikoUwU24
