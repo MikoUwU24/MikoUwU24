@@ -53,6 +53,6 @@
 
 
 # 💬 Favourite quote:
-> _"The best performance improvement is the transition from the non-working stage to the working stage" -john Ousterhout-
+> _"The best performance improvement is the transition from the non-working stage to the working stage" -John Ousterhout-
 
 
