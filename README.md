@@ -1,7 +1,8 @@
+<div align="center"> 
 # 💫こんにちは :3
 🎓 Tran Dang Sinh desu~, IT-E6 K68 HUST, Hanoi<br>
 🎮 Game, coding, anime, cosplay -w- <br>
-🛠 Having interest in web/data/joe mama <br>
+🛠 Having interest in web/data/fintech <br>
 🎵 Jpop, USUK , rap <br>
 🍵 Strawberry fanboi -w- <br>
 🌍 Tiếng Việt, English, 日本語
@@ -37,7 +38,17 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+## 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Metrics](./github-metrics.svg)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MikoUwU24&theme=transparent&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikoUwU24&theme=transparent&hide_border=false&layout=compact&langs_count=8)
+
+</div>
 
 
 
