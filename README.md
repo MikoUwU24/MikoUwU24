@@ -53,6 +53,6 @@
 
 
 # 💬 Favourite quote:
-> _""A dollar won by betting is twice as sweet as a dollar earned." Wei Sigma 
+> _"The best performance improvement is the transition from the non-working stage to the working stage" -john Ousterhout-
 
 
