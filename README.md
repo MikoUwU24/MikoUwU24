@@ -46,7 +46,7 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MikoUwU24&theme=transparent&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikoUwU24&theme=transparent&hide_border=false&layout=compact&langs_count=8)
+![](https://github-readme-activity-graph.vercel.app/graph?username=MikoUwU24&theme=react-dark&days=20)
 
 </div>
 
